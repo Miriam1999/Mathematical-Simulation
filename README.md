@@ -18,14 +18,14 @@ Este curso consiste de tres módulos.
 > Se aplicará una evaluación (**exámen**) y se evaluará una presentación de **proyecto.**
    1. Generación de números aleatorios
    2. Caminata aleatoria
-   3. Integrales
-   4. Fractales aleatorios
-   5. Bajar y organizar datos de Yahoo Finance (Pandas)
+   3. Integración de Montecarlo
+   4. Bajar y organizar datos de Yahoo Finance (Pandas)
    6. Probabilidad precio-umbral
+   7. **Presentación de Ideas para proyectos Finales.**
    
 `Módulo 3.`  **Ecuaciones diferenciales**
 > Se aplicará una evaluación (**exámen**) y se evaluará una presentación de **proyecto.**
-   1. Introducción a ecuaciones diferenciales
+   1. Introducción a ecuaciones diferenciales y espacio de estados
    2. ¿Cómo se mueve un péndulo?
    3. ¿Cómo crece una población?
    4. Modelo del rendimiento de una cuenta de ahorro
