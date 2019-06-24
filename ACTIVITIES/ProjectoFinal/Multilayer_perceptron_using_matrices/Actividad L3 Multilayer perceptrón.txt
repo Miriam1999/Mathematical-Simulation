@@ -1,0 +1,3 @@
+Generar código en Python que reciba una matriz binaria de entradas 
+y una matriz binaria de salidas y devuelva las matrices de pesos entrenados 
+para un perceptrón multicapa con una capa oculta.
